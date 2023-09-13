@@ -1,0 +1,4 @@
+create database alok;
+use alok
+create table Books(Id int(10),Name Varchar(100),Sub Varchar(25),Class Varchar(5));
+crate table Book_Issuing(Student_Name Varchar(100),Date_Of_Issuing Date,Id Int(10),Date_Of_Returning Date);
